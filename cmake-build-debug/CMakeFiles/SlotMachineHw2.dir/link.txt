@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/SlotMachineHw2.dir/main.cpp.o CMakeFiles/SlotMachineHw2.dir/Reel.cpp.o CMakeFiles/SlotMachineHw2.dir/SlotMachine.cpp.o CMakeFiles/SlotMachineHw2.dir/Game.cpp.o CMakeFiles/SlotMachineHw2.dir/PayoutTable.cpp.o  -o SlotMachineHw2.exe -Wl,--out-implib,libSlotMachineHw2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

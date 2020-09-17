@@ -1,0 +1,80 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Ben/OneDrive - University of New Haven/Data Structures and Algorithms/SlotMachineHw2/Game.cpp
+Game.h
+/cygdrive/c/Users/Ben/OneDrive - University of New Haven/Data Structures and Algorithms/SlotMachineHw2/Game.h
+
+/cygdrive/c/Users/Ben/OneDrive - University of New Haven/Data Structures and Algorithms/SlotMachineHw2/Game.h
+stdio.h
+-
+iostream
+-
+stdlib.h
+-
+PayoutTable.h
+/cygdrive/c/Users/Ben/OneDrive - University of New Haven/Data Structures and Algorithms/SlotMachineHw2/PayoutTable.h
+Reel.h
+/cygdrive/c/Users/Ben/OneDrive - University of New Haven/Data Structures and Algorithms/SlotMachineHw2/Reel.h
+SlotMachine.h
+/cygdrive/c/Users/Ben/OneDrive - University of New Haven/Data Structures and Algorithms/SlotMachineHw2/SlotMachine.h
+
+/cygdrive/c/Users/Ben/OneDrive - University of New Haven/Data Structures and Algorithms/SlotMachineHw2/PayoutTable.cpp
+PayoutTable.h
+/cygdrive/c/Users/Ben/OneDrive - University of New Haven/Data Structures and Algorithms/SlotMachineHw2/PayoutTable.h
+
+/cygdrive/c/Users/Ben/OneDrive - University of New Haven/Data Structures and Algorithms/SlotMachineHw2/PayoutTable.h
+stdio.h
+-
+iostream
+-
+stdlib.h
+-
+Reel.h
+/cygdrive/c/Users/Ben/OneDrive - University of New Haven/Data Structures and Algorithms/SlotMachineHw2/Reel.h
+ReelNode.h
+/cygdrive/c/Users/Ben/OneDrive - University of New Haven/Data Structures and Algorithms/SlotMachineHw2/ReelNode.h
+
+/cygdrive/c/Users/Ben/OneDrive - University of New Haven/Data Structures and Algorithms/SlotMachineHw2/Reel.cpp
+Reel.h
+/cygdrive/c/Users/Ben/OneDrive - University of New Haven/Data Structures and Algorithms/SlotMachineHw2/Reel.h
+
+/cygdrive/c/Users/Ben/OneDrive - University of New Haven/Data Structures and Algorithms/SlotMachineHw2/Reel.h
+stdio.h
+-
+iostream
+-
+ReelNode.h
+/cygdrive/c/Users/Ben/OneDrive - University of New Haven/Data Structures and Algorithms/SlotMachineHw2/ReelNode.h
+
+/cygdrive/c/Users/Ben/OneDrive - University of New Haven/Data Structures and Algorithms/SlotMachineHw2/ReelNode.h
+
+/cygdrive/c/Users/Ben/OneDrive - University of New Haven/Data Structures and Algorithms/SlotMachineHw2/SlotMachine.cpp
+SlotMachine.h
+/cygdrive/c/Users/Ben/OneDrive - University of New Haven/Data Structures and Algorithms/SlotMachineHw2/SlotMachine.h
+
+/cygdrive/c/Users/Ben/OneDrive - University of New Haven/Data Structures and Algorithms/SlotMachineHw2/SlotMachine.h
+iostream
+-
+stdio.h
+-
+stdlib.h
+-
+time.h
+-
+Reel.h
+/cygdrive/c/Users/Ben/OneDrive - University of New Haven/Data Structures and Algorithms/SlotMachineHw2/Reel.h
+ReelNode.h
+/cygdrive/c/Users/Ben/OneDrive - University of New Haven/Data Structures and Algorithms/SlotMachineHw2/ReelNode.h
+
+/cygdrive/c/Users/Ben/OneDrive - University of New Haven/Data Structures and Algorithms/SlotMachineHw2/main.cpp
+iostream
+-
+Game.h
+/cygdrive/c/Users/Ben/OneDrive - University of New Haven/Data Structures and Algorithms/SlotMachineHw2/Game.h
+
